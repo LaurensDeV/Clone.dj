@@ -1,0 +1,15 @@
+{
+    "sass.enabled": false,
+    "path": {
+        "sass/*.scss": {
+            "sass.enabled": true,
+            "sass.options": {
+                "outputDir": "../stylesheets/",
+                "includePaths": [],
+                "sourceComments": false,
+                "outputStyle": "nested"
+            },
+            "linting.collapsed": false
+        }
+    }
+}
